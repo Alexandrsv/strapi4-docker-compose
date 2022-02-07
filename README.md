@@ -21,7 +21,7 @@ npx create-strapi-app@latest .
 ```
 ![This is an image](https://i.imgur.com/A1Ahx8T.png)
 
-Наоплни .env своими данными(их подхватят и strapi и postgresql)
+Наоплни .env своими данными по примеру .env.example Strapi и postgresql подхватят данные из переменных. 
 ```
 cd ..
 nano .env
